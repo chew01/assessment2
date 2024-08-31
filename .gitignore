@@ -1,0 +1,4 @@
+package/
+my_deployment_package.zip
+.idea
+.venv
